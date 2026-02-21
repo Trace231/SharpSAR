@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+# Virtualenv
+venv/
+.env
+# Models / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.pth.tar
+# Data / outputs
+outputs/
+eval_results/
+selected_imgs/
+assets/
+# Editor
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
